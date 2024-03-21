@@ -61,7 +61,7 @@
     {
       "title": "Kaggle Notebook Contributor.",
       "date": "2023-05-01"
-    },
+    }
   ],
   "certificates": [
     {
@@ -93,11 +93,7 @@
       "name": "Programming language:",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C",
-        "C++",
-      ]
+      "keywords": ["Python", "C", "C++"]
     },
     {
       "name": "Ai framework",
@@ -116,21 +112,13 @@
       "name": "Microsoft Office Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Slide",
-        "Documentation",
-        "Excel"
-      ]
+      "keywords": ["Slide", "Documentation", "Excel"]
     },
     {
       "name": "Electronics tools",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Matlab",
-        "Proteus",
-        "Multisim"
-      ]
+      "keywords": ["Matlab", "Proteus", "Multisim"]
     }
   ],
   "languages": [
