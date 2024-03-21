@@ -8,18 +8,16 @@ middle_name: Al
 last_name: Naeem
 email: abdullahnaeem119@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A o no pissu simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  As an aspiring Machine Learning Engineer with a passion for innovation, I am actively seeking a position where I can apply my blend of management, technical, and machine learning competencies to drive corporate objectives forward. I aim to innovate processes within the communication domain, leveraging machine learning techniques to drive enhancements and efficiently deliver project outcomes.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+
+keywords: machine-learning, kaggle, deep-learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://abdullahalnaeem.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -67,11 +65,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: abdullahalnaeem
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: abdullahalnaeem
 telegram_username: # your Telegram user name
 scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -92,7 +90,7 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
+kaggle_id: abdullahnaeem119 # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
@@ -124,10 +122,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: # blog_name will be displayed in your blog page
+blog_description: >
 permalink: /blog/:year/:title/
-
 # Pagination
 pagination:
   enabled: true
