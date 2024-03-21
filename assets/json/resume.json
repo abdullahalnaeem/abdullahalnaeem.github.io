@@ -25,9 +25,9 @@
   "work": [
     {
       "name": "KUET Career Club",
-      "position": ".  Vice President",
+      "position": "Vice President",
       "url": "https://kuetcc.com",
-      "startDate": "2022-02-01",
+      "startDate": "2022",
       "endDate": "",
       "summary": "",
       "highlights": ["Organizing"]
@@ -36,9 +36,9 @@
   "volunteer": [
     {
       "organization": "TRY",
-      "position": ".  Volunteer",
+      "position": "Volunteer",
       "url": "https://www.trybd.org/",
-      "startDate": "2020-04-01",
+      "startDate": "2020",
       "endDate": "",
       "summary": "Provide support to the underprivileged section of the society through quality education, nourishment & shelter to make them resources for the nation.",
       "highlights": [""]
@@ -51,8 +51,8 @@
       "url": "https://www.kuet.ac.bd/",
       "area": "Electronics & Communication Engineering",
       "studyType": "BSc",
-      "startDate": "2020-02-01",
-      "endDate": "2025-01-01",
+      "startDate": "2020",
+      "endDate": "2025",
       "score": "",
       "courses": ["Optical Fiber"]
     },
@@ -154,7 +154,7 @@
       "designation": "Professor",
       "academy": "ECE, KUET",
       "icon": "fa-solid fa-laptop",
-      "reference": ""
+      "reference": "Professor ECE, KUET. Email :- fhossain97@yahoo.com "
     }
   ],
   "projects": [
