@@ -60,6 +60,7 @@
       "institution": "Notre Dame College",
       "location": "Dhaka",
       "url": "https://ndc.edu.bd/",
+      "area": "Intermediate Science",
       "studyType": "HSC",
       "startDate": "2017",
       "endDate": "2019",
@@ -159,14 +160,16 @@
       "name": "Bangaluru House Price Prediction",
       "summary": "A simple machine learning model implementation where using 4 parameters price of Bangalore house can be predicted.",
       "highlights": ["Machine Learning", "Logistic Regression"],
-      "startDate": "2024-03",
+      "startDate": "2024",
+      "endDate": "03-20",
       "url": "https://github.com/abdullahalnaeem/Bangalore_House_Price"
     },
     {
       "name": "Book Recommendation system",
       "summary": "A basic book recommender using Machine Learning",
       "highlights": ["Machine Learning", "Recommendation"],
-      "startDate": "2024-03",
+      "startDate": "2024",
+      "endDate": "03-22",
       "url": "https://github.com/abdullahalnaeem/Book_Recommend_System"
     }
   ]
