@@ -29,8 +29,8 @@
       "url": "https://kuetcc.com",
       "startDate": "2022",
       "endDate": "",
-      "summary": "",
-      "highlights": ["Organizing"]
+      "summary": "Three years of club experience with skill and being engaged in workshops, seminar and networking events.",
+      "highlights": ["Event Organizing", "Leadership"]
     }
   ],
   "volunteer": [
@@ -40,27 +40,26 @@
       "url": "https://www.trybd.org/",
       "startDate": "2020",
       "endDate": "",
-      "summary": "Provide support to the underprivileged section of the society through quality education, nourishment & shelter to make them resources for the nation.",
-      "highlights": [""]
+      "summary": "Devoted providing support to the underprivileged section of the society through quality education, nourishment & shelter to make them resources for the nation.",
+      "highlights": ["Campaign", "Treatments"]
     }
   ],
   "education": [
     {
       "institution": "Khulna University of Engineering and Technology",
-      "location": "Khulna, Bangladesh",
+      "location": "Khulna",
       "url": "https://www.kuet.ac.bd/",
       "area": "Electronics & Communication Engineering",
       "studyType": "BSc",
       "startDate": "2020",
       "endDate": "2025",
       "score": "",
-      "courses": ["Optical Fiber"]
+      "courses": ["Optical Fiber", "VLSI", "Digital Electronics"]
     },
     {
       "institution": "Notre Dame College",
-      "location": "Dhaka, Bangladesh",
+      "location": "Dhaka",
       "url": "https://ndc.edu.bd/",
-      "area": "",
       "studyType": "HSC",
       "startDate": "2017",
       "endDate": "2019",
@@ -151,10 +150,8 @@
   "references": [
     {
       "name": "Dr. Md. Faruque Hossain",
-      "designation": "Professor",
-      "academy": "ECE, KUET",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor ECE, KUET. Email :- fhossain97@yahoo.com "
+      "reference": "Professor ECE, KUET.  Email :- fhossain97@yahoo.com "
     }
   ],
   "projects": [
@@ -162,9 +159,15 @@
       "name": "Bangaluru House Price Prediction",
       "summary": "A simple machine learning model implementation where using 4 parameters price of Bangalore house can be predicted.",
       "highlights": ["Machine Learning", "Logistic Regression"],
-      "startDate": "2024-03-20",
-      "endDate": "2024-03-21",
+      "startDate": "2024-03",
       "url": "https://github.com/abdullahalnaeem/Bangalore_House_Price"
+    },
+    {
+      "name": "Book Recommendation system",
+      "summary": "A basic book recommender using Machine Learning",
+      "highlights": ["Machine Learning", "Recommendation"],
+      "startDate": "2024-03",
+      "url": "https://github.com/abdullahalnaeem/Book_Recommend_System"
     }
   ]
 }
