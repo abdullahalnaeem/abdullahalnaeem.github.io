@@ -60,12 +60,12 @@
       "institution": "Notre Dame College",
       "location": "Dhaka",
       "url": "https://ndc.edu.bd/",
-      "area": "Intermediate Science",
+      "area": "",
       "studyType": "HSC",
       "startDate": "2017",
       "endDate": "2019",
       "score": "",
-      "courses": [""]
+      "courses": ["Intermediate Science"]
     }
   ],
   "awards": [
