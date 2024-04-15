@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Abdullah Al Naeem",
-    "label": "ECE UnderGrad -",
+    "label": "ECE UnderGrad",
     "image": "",
     "email": "abdullahnaeem119@gmail.com",
     "phone": "(88) 17753-77539",
@@ -11,8 +11,7 @@
       "address": "BIT",
       "postalCode": "",
       "city": "Khulna",
-      "countryCode": "BD",
-      "region": ""
+      "countryCode": "BD"
     },
     "profiles": [
       {
