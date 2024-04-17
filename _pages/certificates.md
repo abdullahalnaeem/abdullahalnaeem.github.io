@@ -4,7 +4,7 @@ title: Certificates
 permalink: /certificates/
 description: A collection of my certificates.
 nav: true
-nav_order: 8
+nav_order: 5
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
