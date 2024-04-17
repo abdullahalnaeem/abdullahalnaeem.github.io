@@ -16,10 +16,17 @@ profiles:
     more_info: >
       <p><b>Supervised Machine Learning: Regression and Classification<b></p>
 
-  - align: right
+  - align: left
     image: certificates_1.png
     content: certificates_1.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><b>Machine Learning with Python<b></p>
+
+  - align: right
+    image: certificates_3.png
+    content: certificates_3.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><b>Intro to Machine Learning<b></p>
 ---
