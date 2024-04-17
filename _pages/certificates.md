@@ -29,4 +29,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><b>Intro to Machine Learning<b></p>
+      
+  - align: left
+    image: certificates_4.png
+    content: certificates_4.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><b>Programming for Everybody (Getting Started with Python)<b></p>
 ---
