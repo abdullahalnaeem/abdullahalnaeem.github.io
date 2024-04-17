@@ -1,0 +1,2 @@
+Learning Python programming basics from scratch with no prerequisites, covering program construction, simple instructions, and essential concepts up to Chapter 5 of "Python for Everybody" textbook, equipping students for advanced programming courses.
+Here is the certificate of this course [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/MJ753AL75J55)
