@@ -1,0 +1,2 @@
+Master machine learning fundamentals and practical applications in Python with Andrew Ng's Machine Learning Specialization, equipping you with the skills to excel in real-world AI challenges and kickstart your career in ML.
+Here is the certificate of this course [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/specialization/certificate/3QEAWAG552X2)
