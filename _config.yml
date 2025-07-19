@@ -127,7 +127,7 @@ blog_description: From geo-poltics to history
 permalink: /blog/:year/:title/
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
   enabled: false
