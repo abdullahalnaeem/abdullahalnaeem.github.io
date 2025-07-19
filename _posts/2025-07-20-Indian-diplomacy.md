@@ -13,7 +13,7 @@ images:
 ---
 
 Does India Suck at Neighborhood Diplomacy?
-<br><br>
+
 ET2
 
 <div class="row mt-3">
