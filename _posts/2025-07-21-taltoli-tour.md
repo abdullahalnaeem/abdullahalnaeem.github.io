@@ -7,4 +7,3 @@ tags:
 categories:
 ---
 This is an example post with videos. It supports local video files.
-
