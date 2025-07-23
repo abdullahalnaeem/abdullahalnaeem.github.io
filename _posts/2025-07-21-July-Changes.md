@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What Changes has July brought to Bangladesh?
+title: What Changes Has July Brought to Bangladesh?
 date: 2025-07-21 01:46:00
-description: Lets check if post July Bangladesh is on right way!
+description: Let's check if post-July Bangladesh is on the right path!
 tags: national
 categories: politics
 thumbnail: assets/img/july.jpg
@@ -11,15 +11,17 @@ images:
   slider: true
 ---
 
-What Changes has July brought to Bangladesh?
+What Changes Has July Brought to Bangladesh?
 <br>
 ET3
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/july.jpg" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/july.jpg" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
-  
+
+<br>
 <br>
 
 “Police beat us, then tell us to move — and then what? They fired from the back,” said one of the July activists. This phenomenon echoes the crossfire incidents involving gangsters. Were the protesters aligned with gangsters and criminals? What was their crime? Did they demand any form of change? Speaking of change, the main question arises: Was that movement able to change the political landscape at all?
