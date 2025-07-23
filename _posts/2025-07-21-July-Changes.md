@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What Changes has July brought to Bangladesh?
-date: 2025-07-21 1:46:00
+date: 2025-07-21 01:46:00
 description: Lets check if post July Bangladesh is on right way!
-tags: national 
+tags: national
 categories: politics
 thumbnail: assets/img/july.jpg
 images:
